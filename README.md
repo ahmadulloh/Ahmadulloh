@@ -1,16 +1,67 @@
-### Hi there 👋
+<abc>
+    <h1 align="center">
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70">
+      Welcome to Ahmadullo Ne'matov's profile!
+        <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70">
+    </h1>
+    <p  align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Front-End%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=6948fb&vCenter=true&size=25">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    </p>
+</abc>
 
-<!--
-**ahmadulloh/Ahmadulloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width=48%" src="https://github-readme-stats.vercel.app/api?username=ahmadulloh&hide_border=true&&show_icons=true&include_all_commits=true&count_private=true&line_height=25&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
+  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=ahmadulloh&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D">
+</p>
 
-Here are some ideas to get you started:
+<!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Languages and Frameworks & Tools</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/MaterialUI-0081CB.svg?style=for-the-badge&logo=Material-UI&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind CSS-38B2AC.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black">
+<img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white">
+<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white">
+<img src="https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby on Rails-CC0000.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white">
+
+</p>
+
+<!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+<p  align="center">
+      <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif" alt="Coder GIF" width="250">
+    </p>
+   <h2 align="center">Visitor's Count</h2>
+<p align="center"><img src="https://profile-counter.glitch.me/IbrohimRasulov/count.svg" alt="visitor badge"/></p>
+
+<p align="center">
+  <a  href="https://www.linkedin.com/in/nematov-ahmadullo-bb14a0234/" target="_blank">
+  <img  src="svg/social/linkedin.svg"  alt="linkedin"  style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a  href="mailto:ibrohim05062000@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img  src="svg/social/gmail.svg"  alt="gmail"  style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a  href="https://t.me/ibrohim_rasulovs">
+  <img  src="svg/social/telegram.svg"  alt="telegram"  style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
